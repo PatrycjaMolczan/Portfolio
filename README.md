@@ -3,8 +3,8 @@
 ```
 Hello World! 
  
-My name in Patrycja and I’m software tester in the making.
-Here I would like to share with you some of the things I have done to enhance my testing knowledge and skills.
+My name is Patrycja and I’m software tester in the making.
+Here I'd like to share with you some of the things I've done to enhance my testing knowledge and skills.
 ```
 # Books
   - [Testowanie oprogramowania. Podręcznik dla początkujących](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm#format/d)
