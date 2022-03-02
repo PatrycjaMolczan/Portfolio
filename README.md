@@ -31,7 +31,7 @@ Here I'd like to share with you some of the things I've done to enhance my testi
 # Test case examples
 In progress...
 # Bug Reports
-In progress...
+  - [Skleptest.pl](https://drive.google.com/file/d/1UP2ydi5u8RmQG7d8pUMExj8T_5lDYfbs/view?usp=sharing)
 # In future
   - [Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/d)
   - [English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko](https://helion.pl/ksiazki/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko-beata-blaszczyk,anginv.htm#format/d)
